@@ -139,4 +139,5 @@ Simple applications needing file input/output
 
 Demonstrating modification of text files
 
-
+#OUTPUT
+<img width="835" height="338" alt="Image" src="https://github.com/user-attachments/assets/208f9ae3-169c-4228-8b27-5203fec523bb" />
